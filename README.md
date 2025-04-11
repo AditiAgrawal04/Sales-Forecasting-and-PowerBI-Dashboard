@@ -20,3 +20,8 @@ This project uses Power BI to perform time series sales analysis and build an in
 
 ## 🎯 Outcome
 Forecasted sales trends and visualized product performance to support strategic decision-making.
+## 📸 Dashboard Preview
+
+![Dashboard](![Dashboard Preview](https://github.com/user-attachments/assets/2c603d75-30fa-4e90-97ef-1da13bb42fa5)
+
+)
